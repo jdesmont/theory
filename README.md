@@ -15,3 +15,9 @@ Follow-up questions:
 - Could we infer that the existence of other networks that we can experience (such as neural networks / brains) is the consequence of the existence of this "global" network?
 
 - Is the existence of mathematics (hard science) a consequence or an a-priori of this global network?
+
+- Can the study of neural networks help us understand this global network?
+
+To do:
+
+- Try to create a neural network in which big objects (as inputs) would free fall according to Newton laws of motion with an extremely high probability and see if we can find other kinds of inputs which would follow, with high probability, different laws of free falling, or even no free falling at all? How do those inputs differ from the "big objects" inputs?
